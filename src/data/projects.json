@@ -1,26 +1,21 @@
 [
+ 
   {
-    "title": "Project A",
+    "title": "SecEdge",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a Digital Security website to maitain the cloudEdges and MicroEdges.",
+    "skills": ["React", "Express", "Node",  "MongoDB","Material UI"]
   },
   {
-    "title": "Project B",
+    "title": "HRMS Arokee",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a HRMS wesbite for all HR related maintanence.",
+    "skills": ["React", "Express", "Node", "GraphQL","Material UI"]
   },
   {
-    "title": "Project C",
+    "title": "Agile AI Labs",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a AI website used to generate the testcases based on the user story requirements",
+    "skills": ["Next Js","Material UI"]
   }
 ]
